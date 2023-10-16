@@ -1,0 +1,52 @@
+body {
+  background-color: #687EFF;
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 3rem;
+  margin: 5%;
+  color: #98E4FF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.red {
+  background-color: #DA0C81;
+}
+
+.blue {
+  background-color: #F99417;
+}
+
+.green {
+  background-color: #A8DF8E;
+}
+
+.yellow {
+  background-color: #F4E869;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.7;
+}
+
+.pressed {
+  box-shadow: 3px 3px 15px #B9B4C7;
+  background-color: grey;
+}
